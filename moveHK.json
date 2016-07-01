@@ -1513,7 +1513,7 @@
     "URL_en" : "http://www.lcsd.gov.hk/en/beach/index/beach-location-nt/beach-address-tm.html#castlepeak"
   }, {
     "Address_cn" : "屯門龍門路45區",
-    "Address_en" : "Area 45, Lung Mun Road, Tuen Mun, N.T.",
+    "Address_en" : "45, Lung Mun Road, Tuen Mun, N.T.",
     "Category_cn" : "花園、康樂場地及公園",
     "Category_en" : "Gardens, Recreation Grounds and Parks",
     "ClosedOn_cn" : "",
@@ -1557,7 +1557,7 @@
     "URL_en" : ""
   }, {
     "Address_cn" : "九龍深水埗保安道325-329號保安道市政大廈2樓",
-    "Address_en" : "2/F, Po On Road Municipal Services Building, 325-329 Po On Road, Sham Shui Po.",
+    "Address_en" : "325-329 Po On Road, Sham Shui Po.",
     "Category_cn" : "體育館及體育設施",
     "Category_en" : "Sports Centres and Indoor Sports Facilities",
     "ClosedOn_cn" : "",
@@ -4345,7 +4345,7 @@
     "URL_en" : "http://www.lcsd.gov.hk/en/parks/twp/index.html"
   }, {
     "Address_cn" : "荃灣楊屋道45號楊屋道市政大廈3樓",
-    "Address_en" : "3/F, Yeung Uk Road Municipal Services Building, 45 Yeung Uk Road, Tsuen Wan.",
+    "Address_en" : "45 Yeung Uk Road, Tsuen Wan.",
     "Category_cn" : "地區康樂事務辦事處",
     "Category_en" : "District Leisure Services Office",
     "ClosedOn_cn" : "星期六、星期日及公眾假期",
@@ -7491,7 +7491,7 @@
     "URL_en" : ""
   }, {
     "Address_cn" : "九龍九龍城衙前圍道一零零號九龍城市政大廈三樓",
-    "Address_en" : "3/F, Kowloon City Municipal Services Building, 100 Nga Tsin Wai Rd, Kowloon City, Kowloon",
+    "Address_en" : "100 Nga Tsin Wai Rd, Kowloon City, Kowloon",
     "Category_cn" : "體育館及體育設施",
     "Category_en" : "Sports Centres and Indoor Sports Facilities",
     "ClosedOn_cn" : "",
@@ -7755,7 +7755,7 @@
     "URL_en" : "http://www.hkpl.gov.hk/en/locations/eastern/library/chai-wan.html"
   }, {
     "Address_cn" : "香港電氣道229號電氣道市政大廈二樓",
-    "Address_en" : "Electric Road Complex,　229 Electric Road, Hong Kong",
+    "Address_en" : "229 Electric Road, Hong Kong",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "星期四",
@@ -7842,8 +7842,8 @@
     "URL_cn" : "http://www.hkpl.gov.hk/tc/locations/eastern/library/yiu-tung.html",
     "URL_en" : "http://www.hkpl.gov.hk/en/locations/eastern/library/yiu-tung.html"
   }, {
-    "Address_cn" : "九龍黃大仙下&#37032;(二區)龍興樓地下北翼",
-    "Address_en" : "North Wing, G/F.,Lung Hing House, Lower Wong Tai Sin (II) Estate, Kowloon.",
+    "Address_cn" : "九龍黃大仙(二區)龍興樓地下北翼",
+    "Address_en" : "Lung Hing House,Wong Tai Sin, Kowloon.",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "星期四",
@@ -7907,7 +7907,7 @@
     "URL_en" : "http://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0&did=5#811"
   }, {
     "Address_cn" : "葵涌青山公路六咪",
-    "Address_en" : "Castle Peak Road  6 Miles, Kwai Chung",
+    "Address_en" : "Castle Peak Road, Kwai Chung",
     "Category_cn" : "花園、康樂場地及公園",
     "Category_en" : "Gardens, Recreation Grounds and Parks",
     "ClosedOn_cn" : "",
@@ -8215,7 +8215,7 @@
     "URL_en" : ""
   }, {
     "Address_cn" : "葵涌九華徑新村",
-    "Address_en" : "Kau Wah Ken New Village, Kwai Chung",
+    "Address_en" : "Kau Wah Ken, Kwai Chung",
     "Category_cn" : "花園、康樂場地及公園",
     "Category_en" : "Gardens, Recreation Grounds and Parks",
     "ClosedOn_cn" : "",
@@ -9770,8 +9770,8 @@
     "URL_cn" : "http://www.hkpl.gov.hk/tc/locations/kwun-tong/library/lei-yue-mun.html",
     "URL_en" : "http://www.hkpl.gov.hk/en/locations/kwun-tong/library/lei-yue-mun.html"
   }, {
-    "Address_cn" : "九龍秀茂坪秀明樓104-109號",
-    "Address_en" : "Units No. 104-109, G/F., Sau Ming House, Sau Mau Ping Estate, Kowloon",
+    "Address_cn" : "九龍秀茂坪秀明樓104-109號",
+    "Address_en" : "Sau Mau Ping Estate, Kowloon",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "星期四",
@@ -9925,7 +9925,7 @@
     "URL_en" : "https://www.hkpl.gov.hk/en/locations/sham-shui-po/library/un-chau-street.html"
   }, {
     "Address_cn" : "九龍聯合道樂富中心第一期三樓112號",
-    "Address_en" : "Shop No. 112, 3/F., Lok Fu Shopping Centre I, Junction Road, Kowloon",
+    "Address_en" : "Lok Fu Plaza Zone A, 198 Junction Rd, Wang Tau Hom, Hong Kong",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "星期四",
@@ -10079,7 +10079,7 @@
     "URL_en" : "http://www.lcsd.gov.hk/en/camp/p_skorc.php"
   }, {
     "Address_cn" : "九龍慈雲山慈雲山中心702號",
-    "Address_en" : "Shop 702, Tsz Wan Shan Shopping Centre, Tsz Wan Shan, Kowloon",
+    "Address_en" : "Tsz Wan Shan Shopping Centre, Tsz Wan Shan, Kowloon",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "星期四",
@@ -10188,8 +10188,8 @@
     "URL_cn" : "https://www.hkpl.gov.hk/tc/locations/yau-tsim-mong/library/yau-ma-tei.html",
     "URL_en" : "https://www.hkpl.gov.hk/en/locations/yau-tsim-mong/library/yau-ma-tei.html"
   }, {
-    "Address_cn" : "九龍富山富仁樓地庫一層1-4號單位",
-    "Address_en" : "Units 1-4, LG 1, Fu Yan House, Fu Shan Estate, Po Kong Village Road, Kowloon",
+    "Address_cn" : "九龍富山富仁樓地庫一層1-4號單位",
+    "Address_en" : "Fu Shan Estate, Po Kong Village Road, Kowloon",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "星期四",
@@ -10299,7 +10299,7 @@
     "URL_en" : "https://www.hkpl.gov.hk/en/locations/tsuen-wan/library/tsuen-wan.html"
   }, {
     "Address_cn" : "荃灣石圍角石芳樓215-219號",
-    "Address_en" : "Unit No. 215 -219, Shek Fong House, Shek Wai Kok Estate, Tsuen Wan",
+    "Address_en" : "Shek Fong House, Shek Wai Kok Estate, Tsuen Wan",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "逢星期四",
@@ -10343,7 +10343,7 @@
     "URL_en" : "https://www.hkpl.gov.hk/en/locations/tuen-mun/library/tuen-mun.html"
   }, {
     "Address_cn" : "屯門蝴蝶&#37032;蝶聚樓地下123-130號",
-    "Address_en" : "Unit Nos. 123 - 130, Ground Floor, Tip Chui House, Butterfly Estate, Tuen Mun.",
+    "Address_en" : "Tip Chui House, Butterfly Estate, Tuen Mun.",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "逢星期四",
@@ -10475,7 +10475,7 @@
     "URL_en" : "http://www.hkpl.gov.hk/en/locations/north/library/sheung-shui.html"
   }, {
     "Address_cn" : "沙頭角第20座地下1號舖",
-    "Address_en" : "Shop 1, G/F, Block 20, Sha Tau Kok Chuen, Sha Tau Kok.",
+    "Address_en" : "Sha Tau Kok Chuen, Sha Tau Kok.",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "逢星期四",
@@ -10540,8 +10540,8 @@
     "URL_cn" : "https://www.hkpl.gov.hk/tc/locations/sha-tin/library/sha-tin.html",
     "URL_en" : "https://www.hkpl.gov.hk/en/locations/sha-tin/library/sha-tin.html"
   }, {
-    "Address_cn" : "沙田瀝源貴和樓地下101-110號",
-    "Address_en" : "Units 101 - 110, G/F, Kwai Wo House, Lek Yuen Estate, Sha Tin",
+    "Address_cn" : "沙田瀝源貴和樓地下101-110號",
+    "Address_en" : "Kwai Wo House, Lek Yuen Estate, Sha Tin",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "逢星期一",
@@ -10871,7 +10871,7 @@
     "URL_en" : "http://www.lcsd.gov.hk/en/beach/swim-intro/swim-location-hk/swim-address-e.html#chaiwan"
   }, {
     "Address_cn" : "新界西貢清水灣道大環頭清水灣第二灣泳灘",
-    "Address_en" : "Clear Water Bay Second Beach, Tai Wan Tau, Clear Water Bay Road,  Sai Kung, N.T.",
+    "Address_en" : "Clear Water Bay, Tai Wan Tau, Clear Water Bay Road,  Sai Kung, N.T.",
     "Category_cn" : "泳灘及游泳池",
     "Category_en" : "Beaches and Swimming Pools",
     "ClosedOn_cn" : "",
@@ -10893,7 +10893,7 @@
     "URL_en" : "http://www.lcsd.gov.hk/en/beach/index/beach-location-nt/beach-address-sk.html#clearwaterbaysecond"
   }, {
     "Address_cn" : "新界西貢橋咀洲橋咀泳灘",
-    "Address_en" : "Kiu Tsui Beach, Sharp Island, Sai Kung, N.T.",
+    "Address_en" : "Sharp Island, Sai Kung, N.T.",
     "Category_cn" : "泳灘及游泳池",
     "Category_en" : "Beaches and Swimming Pools",
     "ClosedOn_cn" : "",
@@ -11002,8 +11002,8 @@
     "URL_cn" : "http://www.lcsd.gov.hk/tc/beach/swim-intro/swim-location-nt/swim-address-yl.html#yuenlong",
     "URL_en" : "http://www.lcsd.gov.hk/en/beach/swim-intro/swim-location-nt/swim-address-yl.html#yuenlong"
   }, {
-    "Address_cn" : "元朗朗屏 朗屏商場二樓二零二室",
-    "Address_en" : "Unit 202, 2/F., Long Ping Commercial Centre, Long Ping Estate, Yuen Long.",
+    "Address_cn" : "元朗朗屏 朗屏商場二樓二零二室",
+    "Address_en" : "Long Ping Estate, Yuen Long.",
     "Category_cn" : "體育館及體育設施",
     "Category_en" : "Sports Centres and Indoor Sports Facilities",
     "ClosedOn_cn" : "",
@@ -11927,7 +11927,7 @@
     "URL_en" : ""
   }, {
     "Address_cn" : "新界粉嶺聯和墟和滿街9號三樓",
-    "Address_en" : "3/F., 9 Wo Mun Street, Luen Wo Market Hui, Fanling, N.T.",
+    "Address_en" : "9 Wo Mun Street, Fanling, N.T.",
     "Category_cn" : "體育館及體育設施",
     "Category_en" : "Sports Centres and Indoor Sports Facilities",
     "ClosedOn_cn" : "每月第一及第三個星期一上午七時至下午一時暫停開放 ， 以便進行場館設施保養及清潔。農曆年初一、二、三 休息。",
@@ -11948,8 +11948,8 @@
     "URL_cn" : "http://www.lcsd.gov.hk/tc/facilities/facilitieslist/facilities.php?ftid=0&did=7#297",
     "URL_en" : "http://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0&did=7#297"
   }, {
-    "Address_cn" : "新界上水天平天平商場三樓",
-    "Address_en" : "3/F., Tin Ping Shopping Centre, Tin Ping Estate, Sheung Shui, N.T.",
+    "Address_cn" : "新界上水天平天平商場三樓",
+    "Address_en" : "Tin Ping Estate, Sheung Shui, N.T.",
     "Category_cn" : "體育館及體育設施",
     "Category_en" : "Sports Centres and Indoor Sports Facilities",
     "ClosedOn_cn" : "每月第二及第四個星期一上午七時至下午一時暫停開放 ，以便進行場館設施保養及清潔。農曆年初一、二、三 休息。",
@@ -11971,7 +11971,7 @@
     "URL_en" : "http://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0&did=7#343"
   }, {
     "Address_cn" : "赤柱赤柱市場道六號赤柱市政大廈地面上層",
-    "Address_en" : "Upper Ground Floor, Stanley Municipal Services Building, 6 Stanley Market Road, Stanley",
+    "Address_en" : "6 Stanley Market Road, Stanley",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "星期四",
@@ -12344,8 +12344,8 @@
     "URL_cn" : "http://www.hkpl.gov.hk/tc/locations/eastern/library/siu-sai-wan.html",
     "URL_en" : "http://www.hkpl.gov.hk/en/locations/eastern/library/siu-sai-wan.html"
   }, {
-    "Address_cn" : "天水圍天&#28580;&#37032;天&#28580;商場313號舖位",
-    "Address_en" : "Shop 313, Tin Chak Shopping Centre, Tin Chak Estate, Tin Shui Wai.",
+    "Address_cn" : "天水圍商場313號舖位",
+    "Address_en" : "Tin Chak Estate, Tin Shui Wai.",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "逢星期一",
