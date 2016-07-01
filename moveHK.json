@@ -9661,7 +9661,7 @@
     "URL_en" : "http://www.hkpl.gov.hk/en/locations/kowloon-city/library/kowloon.html"
   }, {
     "Address_cn" : "九 龍 衙 前 圍 道 100 號 九 龍 城 市 政 大 廈 三 樓",
-    "Address_en" : "3/F., Kowloon City Complex, 100 Nga Tsin Wai Road, Kowloon",
+    "Address_en" : "100 Nga Tsin Wai Road, Kowloon",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "星期四",
@@ -9881,7 +9881,7 @@
     "URL_en" : "http://www.hkpl.gov.hk/english/locat_hour/locat_hour_ll/locat_hour_ll_kr/library_48.html"
   }, {
     "Address_cn" : "九龍保安道325-329號保安道市政大廈二樓",
-    "Address_en" : "1/F., Po On Road Complex, 325-329 Po On Road, Kowloon",
+    "Address_en" : "325-329 Po On Road, Kowloon",
     "Category_cn" : "圖書館",
     "Category_en" : "Library",
     "ClosedOn_cn" : "",
@@ -11619,7 +11619,7 @@
     "URL_en" : ""
   }, {
     "Address_cn" : "新界荃灣楊屋道45號, 楊屋道市政大廈 四樓",
-    "Address_en" : "4/F Yeung Uk Road Municipal Services Building, No. 45 Yeung Uk Road, Tsuen Wan, N.T.",
+    "Address_en" : "No. 45 Yeung Uk Road, Tsuen Wan, N.T.",
     "Category_cn" : "體育館及體育設施",
     "Category_en" : "Sports Centres and Indoor Sports Facilities",
     "ClosedOn_cn" : "每月的第一及第三個星期一為保養日, 是日封場時間為上午7時至下午1時",
