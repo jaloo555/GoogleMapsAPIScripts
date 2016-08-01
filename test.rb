@@ -4,16 +4,17 @@ require "json"
 require "uri"
 require "rubygems"
 
-arrayOfLatLong = []
-arrayOfAddresses = []
+arrayOfCategories = []
 
-contents = '{"northeast" : {
-                   "lat" : 22.2837934,
-                   "lng" : 114.1909365
-                }}'
+contents = File.read("./file.json")
 parsedContent = JSON.parse(contents)
-p parsedContent['northeast']['lat']
 
+parsedContent['Venues'].each do |x|
+	arrayOfCategories.insert(0,x['Category_en'])
+end
+
+output = arrayOfCategories.uniq!
+File.open('out.txt', w+) {|f| f.write(output)}
 
 #store addresses into an array
 # parsedContent['Venues'].each do |x|

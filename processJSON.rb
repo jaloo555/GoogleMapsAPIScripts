@@ -14,9 +14,12 @@ parsedContent['Venues'].each do |x|
 	uri = URI(prepURI)
 	gMapsResponse = Net::HTTP.get(uri)
 	parsedGMapsResponse = JSON.parse(gMapsResponse)
-	x["lat"] = parsedGMapsResponse['results'][0]['geometry']['location']['lat']
-	x["lng"] = parsedGMapsResponse['results'][0]['geometry']['location']['lng']
+	x["lat"] = parsedGMapsResponse['results'][0]['geometry']['location']['lat'].to_s
+	x["lng"] = parsedGMapsResponse['results'][0]['geometry']['location']['lng'].to_s
 end
-puts parsedContent.to_json
+
+p parsedContent.to_json
+#File.write('./file.json', parsedContent.to_json)
+
 #https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=AIzaSyA6ZCheu9Iimb09xlQs3xjejUrX825fXVQ
 #!/usr/bin/env ruby -wKU
